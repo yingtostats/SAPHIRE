@@ -1,4 +1,4 @@
-## Modelling transmission dynamics of COVID-19
+## Modelling transmission dynamics of COVID-19 (estimate the initial growth rate)
 
 This repository includes data and codes for reproducing the results in the manuscript:
 
